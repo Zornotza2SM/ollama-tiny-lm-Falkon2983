@@ -114,6 +114,9 @@ Para completar la práctica, intenta realizar una de estas pruebas:
 
 
 3. Edita este `README.md` (o crea un archivo `RESPUESTAS.md`) contestando brevemente:
-* ¿Qué modelo has usado finalmente?
+* ¿Qué modelo has usado finalmente? 
+* Deepseek v1
 * ¿Cuánto ocupa en disco aproximadamente ese modelo? (Búscalo en la web de Ollama).
+* 5 gigas
 * ¿Crees que esta IA responde más rápido o más lento que ChatGPT? ¿Por qué crees que es?
+* Mucho mas lento. Esto es por los recursos del pc.
